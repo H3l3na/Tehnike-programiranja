@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1475074132 source:c:\users\alma\desktop\t6zad1\main.cpp
+	<iostream>
+	<new>
+	<stdexcept>
+	<math.h>
+
