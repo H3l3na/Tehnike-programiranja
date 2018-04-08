@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1475128672 source:c:\users\alma\desktop\t6z4\main.cpp
+	<iostream>
+	<new>
+	<iomanip>
+	<stdexcept>
+	<vector>
+
